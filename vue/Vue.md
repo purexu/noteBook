@@ -1,9 +1,5 @@
 ### Vue.js 
 
-> 西岭老湿
->
-> 传智播客 & 黑马程序员
-
 ----
 
 ## 第0章  Vue介绍
@@ -1964,7 +1960,7 @@ $ json-server --watch data.json
 
 
 
-![](/Users/zhangduanmeng/work/itcast/备课/Vue/img/Snipaste_2018-10-18_03-34-14.png)
+![](./img/Snipaste_2018-10-18_03-34-14.png)
 
 
 
@@ -3045,7 +3041,21 @@ export default new Router({
 
 浏览器渲染效果如下：
 
-![](/Users/zhangduanmeng/work/itcast/%E5%A4%87%E8%AF%BE/Vue/img/Snipaste_2018-10-21_14-11-46.png)
+
+
+![](./img/Snipaste_2018-10-21_14-11-46.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
