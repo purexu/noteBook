@@ -2771,7 +2771,7 @@ To get started:
 
 
 
-![](/img/Snipaste_2018-10-21_03-11-42.png)
+![](./img/Snipaste_2018-10-21_03-11-42.png)
 
 
 
