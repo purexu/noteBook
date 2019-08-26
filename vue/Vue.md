@@ -2183,7 +2183,7 @@ https://cn.vuejs.org/v2/guide/components-registration.html
 
 组件系统是 Vue 的一个重要概念，因为它是一种抽象，允许我们使用小型、独立和通常可复用的组件构建大型应用。通常一个应用会以一棵嵌套的组件树的形式来组织：
 
-![](/Users/zhangduanmeng/work/itcast/%E5%A4%87%E8%AF%BE/Vue/img/Snipaste_2018-10-18_18-33-54.png)
+![](/img/Snipaste_2018-10-18_18-33-54.png)
 
 例如，你可能会有页头、侧边栏、内容区等组件，每个组件又包含了其它的像导航链接、博文之类的组件。
 
@@ -2539,7 +2539,7 @@ new Vue({
 
 下图展示了实例的生命周期。你不需要立马弄明白所有的东西，不过随着你的不断学习和使用，它的参考价值会越来越高。
 
-![](/Users/zhangduanmeng/work/itcast/%E5%A4%87%E8%AF%BE/Vue/img/Snipaste_2018-10-18_18-33-56.jpg)
+![](/img/Snipaste_2018-10-18_18-33-56.jpg)
 
 ```html
 <div id="app">
@@ -2771,7 +2771,7 @@ To get started:
 
 
 
-![](/Users/zhangduanmeng/work/itcast/%E5%A4%87%E8%AF%BE/Vue/img/Snipaste_2018-10-21_03-11-42.png)
+![](/img/Snipaste_2018-10-21_03-11-42.png)
 
 
 
