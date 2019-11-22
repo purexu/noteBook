@@ -6,7 +6,9 @@
 
 `$ git remote add origin https://github.com/purexu/noteBook.git`
 
-##### 三. 把本地库的所有内容推送到远程库上。
+##### 三. 把本地库的所有内容推送到远程库上。因为本地库的文件可能和远程库的文件有冲突，所以在push时报错应先pull一下。
+
+` $ git pull origin master --allow-unrelated-histories`
 
 `$ git push -u origin master`
 
